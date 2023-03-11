@@ -1,0 +1,576 @@
+.desktop-1-child,
+.group-child {
+  position: absolute;
+  left: 0;
+  width: 1320px;
+}
+.desktop-1-child {
+  top: 8411px;
+  background-color: var(--color-black);
+  height: 414px;
+}
+.group-child {
+  top: 0;
+  background-color: #1b1b1c;
+  height: 86px;
+}
+.vector-icon {
+  position: absolute;
+  top: calc(50% + 1506px);
+  left: calc(50% - 623.06px);
+  width: 39.54px;
+  height: 29px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0.06px;
+  width: 1320px;
+  height: 3070px;
+}
+.d33b0c9-2d92-4198-a0b7-ff63678-icon {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  width: 1318px;
+  height: 683px;
+  object-fit: cover;
+}
+.more-than-just {
+  margin: 0;
+}
+.brand-new-design,
+.more-than-just-container {
+  position: absolute;
+  left: 37px;
+  font-family: var(--font-inter);
+}
+.more-than-just-container {
+  top: 239px;
+  font-size: 67px;
+  font-weight: 800;
+}
+.brand-new-design {
+  top: 404px;
+  font-size: var(--font-size-7xl);
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 17px;
+  background-color: var(--color-black);
+  width: 232px;
+  height: 52px;
+}
+.shop-now {
+  position: absolute;
+  top: 10px;
+  left: 54px;
+  font-size: var(--font-size-7xl);
+  letter-spacing: 0.08em;
+  font-family: var(--font-impact);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 493px;
+  left: 106px;
+  width: 232px;
+  height: 52px;
+}
+.new-arrivals {
+  top: 823px;
+}
+.new-arrivals,
+.new-arrivals1,
+.new-arrivals2 {
+  position: absolute;
+  left: 75px;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.03em;
+  font-weight: 800;
+  font-family: var(--font-inconsolata);
+}
+.new-arrivals1 {
+  top: 2534px;
+}
+.new-arrivals2 {
+  top: 5956px;
+}
+.desktop-1-item,
+.group-inner {
+  position: absolute;
+  top: 889px;
+  left: 488px;
+  width: 344px;
+  height: 424px;
+}
+.group-inner {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  width: 268px;
+  height: 341px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-container {
+  position: absolute;
+  top: 493px;
+  left: 0;
+  width: 344px;
+  height: 424px;
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+}
+.group-div,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 413px;
+  width: 344px;
+  height: 424px;
+}
+.rectangle-parent1 {
+  left: 0;
+}
+.group-child5 {
+  left: 38px;
+  width: 268px;
+  height: 341px;
+  object-fit: cover;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 493px;
+  left: 412px;
+  width: 344px;
+  height: 424px;
+}
+.group-parent {
+  position: absolute;
+}
+.rectangle-parent3,
+.rectangle-parent4 {
+  position: absolute;
+  top: 0;
+  left: 826px;
+  width: 344px;
+  height: 424px;
+}
+.rectangle-parent4 {
+  top: 493px;
+}
+.group-parent {
+  top: 4346px;
+  left: 75px;
+  width: 1170px;
+  height: 917px;
+}
+.rectangle-parent6,
+.rectangle-parent7 {
+  position: absolute;
+  top: 0;
+  left: 414px;
+  width: 344px;
+  height: 424px;
+}
+.rectangle-parent7 {
+  left: 1px;
+}
+.group-container {
+  position: absolute;
+}
+.rectangle-parent8,
+.rectangle-parent9 {
+  position: absolute;
+  top: 493px;
+  left: 413px;
+  width: 344px;
+  height: 424px;
+}
+.rectangle-parent9 {
+  top: 0;
+  left: 827px;
+}
+.group-container {
+  top: 6057px;
+  left: 75px;
+  width: 1171px;
+  height: 917px;
+}
+.group-child27,
+.group-child29 {
+  position: absolute;
+  width: 268px;
+  height: 341px;
+  object-fit: cover;
+}
+.group-child27 {
+  top: 2px;
+  left: 38px;
+  cursor: pointer;
+}
+.group-child29 {
+  top: 3px;
+  left: 37px;
+}
+.group-parent1 {
+  position: absolute;
+  top: 2635px;
+  left: 75px;
+  width: 1170px;
+  height: 917px;
+}
+.iphone-14-d2-1,
+.iphone-14-d2-5 {
+  position: absolute;
+  top: 10px;
+  left: 84px;
+  width: 165px;
+  height: 326px;
+  object-fit: cover;
+}
+.iphone-14-d2-5 {
+  top: 0;
+  left: 90px;
+}
+.group-parent2 {
+  position: absolute;
+  top: 924px;
+  left: 75px;
+  width: 1170px;
+  height: 917px;
+}
+.desktop-1-child1,
+.desktop-1-inner {
+  position: absolute;
+  left: 0;
+  width: 1320px;
+  height: 566px;
+  object-fit: cover;
+}
+.desktop-1-inner {
+  top: 1914px;
+}
+.desktop-1-child1 {
+  top: 3625px;
+}
+.mdisearch-icon,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 0.43%;
+  width: 3.26%;
+  top: 0.29%;
+  right: 7.73%;
+  bottom: 99.29%;
+  left: 89.02%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.mdisearch-icon {
+  top: 25px;
+  left: 1038px;
+  width: 44px;
+  height: 37px;
+}
+.recently-added {
+  position: absolute;
+  top: 4245px;
+  left: 75px;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.02em;
+  font-weight: 800;
+  font-family: var(--font-inconsolata);
+}
+.frame-child {
+  top: 0;
+  left: 0;
+  width: 1320px;
+  height: 566px;
+}
+.frame-child,
+.icon,
+.icon1,
+.icon2 {
+  position: absolute;
+  object-fit: cover;
+}
+.icon {
+  top: 216px;
+  left: 619px;
+  width: 690.28px;
+  height: 350px;
+}
+.icon1 {
+  top: 0;
+  left: 406px;
+  width: 741.65px;
+  height: 566px;
+}
+.icon2 {
+  top: 0;
+  left: 949px;
+  width: 371px;
+  height: 528.54px;
+}
+.group-child40,
+.rectangle-wrapper {
+  position: absolute;
+  width: 368px;
+  height: 212px;
+}
+.group-child40 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.rectangle-wrapper {
+  top: 188px;
+  left: 60px;
+}
+.the-anime-collection-container {
+  position: absolute;
+  top: 188px;
+  left: 82px;
+  display: inline-block;
+  width: 286px;
+  height: 190px;
+}
+.frame-div {
+  top: 5336px;
+  background-color: var(--color-white);
+  height: 566px;
+  overflow: hidden;
+  font-size: 48px;
+  font-family: var(--font-inder);
+}
+.featurettes-1-icon,
+.frame-div,
+.frame-icon {
+  position: absolute;
+  left: 0;
+  width: 1320px;
+}
+.featurettes-1-icon {
+  top: 7047px;
+  height: 660px;
+  object-fit: cover;
+}
+.frame-icon {
+  top: 7707px;
+  height: 704px;
+  overflow-x: auto;
+}
+.follow-us-on {
+  position: absolute;
+  top: 8693px;
+  left: 1050px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.group-icon {
+  position: absolute;
+  top: 8729px;
+  left: 970px;
+  width: 320px;
+  height: 80px;
+}
+.help {
+  top: 2px;
+  left: 0;
+  display: inline-block;
+  width: 87px;
+  height: 53px;
+}
+.faq,
+.help {
+  position: absolute;
+}
+.my-account,
+.pages {
+  position: absolute;
+  top: 2px;
+  left: 216px;
+}
+.pages {
+  top: 0;
+  left: 551px;
+}
+.faq {
+  top: 70px;
+  left: 0;
+  font-size: var(--font-size-xl);
+}
+.login1 {
+  color: inherit;
+}
+.about-us-contact-container,
+.login-register-track-container {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  text-decoration: underline;
+  color: inherit;
+}
+.login-register-track-container {
+  top: 70px;
+  left: 216px;
+}
+.about-us-contact-container {
+  top: 55px;
+  left: 551px;
+  display: inline-block;
+  width: 591px;
+  height: 167px;
+}
+.help-parent {
+  position: absolute;
+  top: 8471px;
+  left: 47px;
+  width: 1142px;
+  height: 222px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.vector-icon2 {
+  position: absolute;
+  height: 0.43%;
+  width: 3.26%;
+  top: 0.29%;
+  right: 12.88%;
+  bottom: 99.29%;
+  left: 83.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iphone-lava-crust {
+  position: absolute;
+  top: 1276px;
+  left: 186px;
+  color: var(--color-dimgray);
+}
+.iphone-lava-crust1 {
+  left: 186px;
+}
+.iphone-lava-crust1,
+.iphone-lava-crust2 {
+  position: absolute;
+  color: var(--color-dimgray);
+}
+.iphone-lava-crust1 {
+  top: 1775px;
+}
+.iphone-lava-crust2 {
+  top: 1283px;
+  left: 597px;
+}
+.iphone-lava-crust3 {
+  top: 1773px;
+  left: 611px;
+}
+.iphone-lava-crust3,
+.iphone-lava-crust4,
+.iphone-lava-crust5 {
+  position: absolute;
+  color: var(--color-dimgray);
+}
+.iphone-lava-crust4 {
+  top: 1281px;
+  left: 1011px;
+}
+.iphone-lava-crust5 {
+  left: 1011px;
+  top: 1780px;
+}
+.image-3-icon {
+  position: absolute;
+  top: -23px;
+  left: -10px;
+  width: 148px;
+  height: 132px;
+  object-fit: cover;
+}
+.div {
+  top: 0;
+  left: 29px;
+}
+.div,
+.div1,
+.rate {
+  position: absolute;
+}
+.div1 {
+  top: 3px;
+  left: 0;
+  font-size: var(--font-size-4xs);
+  text-decoration: line-through;
+  font-weight: 300;
+}
+.rate {
+  top: 1305px;
+  width: 55px;
+  height: 15px;
+  font-size: var(--font-size-2xs);
+}
+.rate,
+.rate1 {
+  left: 189px;
+}
+.rate1,
+.rate2,
+.rate3,
+.rate4,
+.rate5 {
+  position: absolute;
+  width: 55px;
+  height: 15px;
+  font-size: var(--font-size-2xs);
+}
+.rate1 {
+  top: 1804px;
+}
+.rate2 {
+  top: 1312px;
+  left: 600px;
+}
+.rate3 {
+  top: 1802px;
+  left: 614px;
+}
+.rate4,
+.rate5 {
+  top: 1310px;
+  left: 1014px;
+}
+.rate5 {
+  top: 1809px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 9031px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}

@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-inter: Inter;
+  --font-inder: Inder;
+  --font-inconsolata: Inconsolata;
+  --font-impact: Impact;
+
+  /* font sizes */
+  --font-size-4xs: 9px;
+  --font-size-2xs: 11px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+  --font-size-26xl: 45px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-dimgray: #555;
+  --color-whitesmoke: #f1f1f1;
+}
